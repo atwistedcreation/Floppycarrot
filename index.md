@@ -1,3 +1,3 @@
 ---
-title: Welcome to my blog!
+Jack Testing first blog post: Welcome to my blog!eat a bag of dicks
 ---
